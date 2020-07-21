@@ -1,11 +1,11 @@
 """ mysql 配置 """
 MysqlConfig = {
     'development': {
-        'host': '192.168.1.103',
-        'port': 3307,
+        'host': '127.0.0.1',
+        'port': 3306,
         'db': 'enterprise',
         'username': 'root',
-        'password': 'root@123'
+        'password': 'rootpass'
     }
 }
 
